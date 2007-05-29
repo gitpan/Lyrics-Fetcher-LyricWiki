@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 
-#$Id$
+#$Id: Lyrics-Fetcher-LyricWiki.t 134 2007-05-13 21:34:15Z davidp $
 
 # quick dirty testing for Lyrics::Fetcher::LyricWiki
 #
