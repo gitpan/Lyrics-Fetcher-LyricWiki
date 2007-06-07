@@ -2,13 +2,13 @@ package Lyrics::Fetcher::LyricWiki;
 
 # $Id: LyricWiki.pm 143 2007-05-29 20:23:08Z davidp $
 
-use 5.008007;
+use 5.008000;
 use strict;
 use warnings;
 use SOAP::Lite;
 use Carp;
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 # the HTTP User-Agent we'll send:
 our $AGENT = "Perl/Lyrics::Fetcher::LyricWiki $VERSION";
