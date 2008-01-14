@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 
-#$Id: Lyrics-Fetcher-LyricWiki.t 134 2007-05-13 21:34:15Z davidp $
+#$Id: 1-basic.t 201 2008-01-14 23:02:29Z davidp $
 
 # quick dirty testing for Lyrics::Fetcher::LyricWiki
 #
@@ -30,11 +30,6 @@ my @tests = (
         title   => 'Cast No Shadow',
         artist  => 'Oasis',
         lookfor => qr/As he faced the sun he cast no shadow/,
-    },
-    {
-        title   => 'What Sarah Said',
-        artist  => 'Death Cab For Cutie',
-        lookfor => qr/every plan is a tiny prayer to father time/,
     },
     {
         title   => 'Heavy Fuel',
