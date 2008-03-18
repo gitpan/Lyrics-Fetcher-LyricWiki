@@ -1,14 +1,14 @@
 package Lyrics::Fetcher::LyricWiki;
 
-# $Id: LyricWiki.pm 201 2008-01-14 23:02:29Z davidp $
+# $Id: LyricWiki.pm 306 2008-03-18 18:37:14Z davidp $
 
-use 5.008000;
+use 5.005000;
 use strict;
 use warnings;
 use SOAP::Lite;
 use Carp;
 
-our $VERSION = '0.04';
+our $VERSION = '0.05';
 
 # the HTTP User-Agent we'll send:
 our $AGENT = "Perl/Lyrics::Fetcher::LyricWiki $VERSION";
@@ -115,7 +115,7 @@ David Precious E<lt>davidp@preshweb.co.ukE<gt>
 
 =head1 COPYRIGHT AND LICENSE
 
-Copyright (C) 2007 by David Precious
+Copyright (C) 2007-2008 by David Precious
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself, either Perl version 5.8.7 or,
