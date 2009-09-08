@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 
-#$Id: 1-basic.t 201 2008-01-14 23:02:29Z davidp $
+#$Id: 1-basic.t 444 2008-09-04 18:55:10Z davidp $
 
 # quick dirty testing for Lyrics::Fetcher::LyricWiki
 #

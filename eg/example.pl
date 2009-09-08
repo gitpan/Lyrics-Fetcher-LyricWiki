@@ -4,7 +4,7 @@
 # A quick, simple example of using this module via Lyrics::Fetcher.
 # 
 #
-# $Id: example.pl 307 2008-03-18 18:39:27Z davidp $
+# $Id: example.pl 444 2008-09-04 18:55:10Z davidp $
 
 use strict;
 use warnings;
