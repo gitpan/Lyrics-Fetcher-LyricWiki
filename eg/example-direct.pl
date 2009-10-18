@@ -6,7 +6,7 @@
 # It's recommended to call it from Lyrics::Fetcher (see example.pl) rather
 # than directly, but if you'd prefer to use it directly, this is how.
 #
-# $Id: example-direct.pl 444 2008-09-04 18:55:10Z davidp $
+# $Id: example-direct.pl 307 2008-03-18 18:39:27Z davidp $
 
 use strict;
 use warnings;
