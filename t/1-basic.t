@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 
-#$Id: 1-basic.t 769 2009-10-18 16:51:34Z davidp $
+#$Id$
 
 # quick dirty testing for Lyrics::Fetcher::LyricWiki
 #
@@ -47,7 +47,7 @@ my @tests = (
     {
         title   => 'High Speed Train',
         artist  => 'REM',
-        lookfor => qr/jump on a high speed train/i,
+        lookfor => qr/jump on a high(?:\s|-)speed train/i,
     },
     {
         title   => 'This Song Does Not Exist',

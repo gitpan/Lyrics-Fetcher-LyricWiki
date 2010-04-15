@@ -1,6 +1,6 @@
 package Lyrics::Fetcher::LyricWiki;
 
-# $Id: LyricWiki.pm 768 2009-10-18 16:50:48Z davidp $
+# $Id$
 
 use 5.005000;
 use strict;
@@ -8,7 +8,7 @@ use warnings;
 use LWP::UserAgent;
 use Carp;
 
-our $VERSION = '0.07';
+our $VERSION = '0.08';
 
 # the HTTP User-Agent we'll send:
 our $AGENT = "Perl/Lyrics::Fetcher::LyricWiki $VERSION";
