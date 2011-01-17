@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Lyrics-Fetcher-LyricWiki
-version:            0.09
+version:            0.10
 abstract:           Get song lyrics from www.LyricWiki.org
 author:
     - David Precious <davidp@preshweb.co.uk>
